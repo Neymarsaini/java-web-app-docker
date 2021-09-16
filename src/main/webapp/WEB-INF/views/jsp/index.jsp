@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Aghori house </h2>
-			<h3>Contact @ your will</h3>
+			<h3>Contact @ your will .......</h3>
 		</div>	
 	</div>
 
